@@ -1,6 +1,6 @@
 #mongol
 
-On Mac OS:
+#On Mac OS 10.8:
 sudo python2.7 mongol.py -i hostslist.txt -o outputfilename.txt
 
 

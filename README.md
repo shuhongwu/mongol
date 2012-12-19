@@ -1,7 +1,6 @@
 #mongol
 
-#On Mac OS 10.8:
-sudo python2.7 mongol.py -i hostslist.txt -o outputfilename.txt
+#On Mac OS 10.8:sudo python2.7 mongol.py -i hostslist.txt -o outputfilename.txt
 
 
 Mongol.py is a tool that was inspired by a research paper[0] that described the physical location and number of routers
